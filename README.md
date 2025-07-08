@@ -1,8 +1,8 @@
 👋 Hey, I’m Nancy Karoki — a software engineer passionate about building clean, purposeful web apps with real-world impact.<br/>
 
 💻 Currently working with:
-- React, HTML, CSS, JavaScript<br/>
-- Firebase, JSON Server<br/>
+- React, HTML, CSS, JavaScript, Python, Flask<br/>
+- Firebase, JSON Server, Render<br/>
 - Version control & Git best<br/> practices
 
 🧠 I enjoy:
